@@ -1,0 +1,22 @@
+.window {
+        border: 1px solid black;
+        height: 100px;
+        width: 100px;
+        position: relative;
+        margin:10px;
+        z-index:4000;
+}
+
+#window2 {
+        left: 200px;
+        top:10px;
+}
+
+#window4 {
+        left: 200px;
+        top:10px;
+}
+
+#window3 {
+        height: 20px;
+}
